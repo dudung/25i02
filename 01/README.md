@@ -8,3 +8,7 @@ bkd-docs 2024-2
 0534
 INOVTEK_Polbeng_Seri_Informatika_v10_n1_p87-98_y2025.pdf
 Commit.
+
+0603
+Bulgarian_Astronomical_journal_v42_no_p_63-77_y2025.pdf
+Commit.
